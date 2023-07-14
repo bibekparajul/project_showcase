@@ -34,7 +34,7 @@ header h1{
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
     overflow: hidden;
-    border: 2px solid rgb(128, 42, 42);
+    border: 3px solid rgb(66, 66, 66);
     box-shadow: 20px 20px 20px rgba(26, 6, 6, 0.3); /* Adjust the shadow properties as needed */
   }
   
